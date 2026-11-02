@@ -1,0 +1,63 @@
+​1. Evolution of Computers & Purpose
+​Why Computers? Computers were originally created to perform calculations and computations.  
+​Historical Progression of Calculation Tools:
+​Fingers  
+​Stones & sticks  
+​Abacus  
+​Mechanical calculators  
+​Modern computers (electronic devices executing computations based on user instructions)  
+​2. Working & Core Features of a Computer
+​Working Framework: Operates on an Input \rightarrow Process \rightarrow Result cycle (e.g., inputting 10 + 20 \rightarrow processing \rightarrow output result 30).  
+​Features of a Computer: Automation, Speed, Accuracy, Versatility, Storage, and Connectivity.  
+​3. Programming Languages & Categories
+​Programming Language: A set of instructions given to a computer.  
+​Categories:
+​Low-Level Programming: Uses binary code (0 and 1).  
+​0: OFF (current is not passing).  
+​1: ON (electricity/current is passing through the circuit).  
+​High-Level Programming: Written in English-like, human-understandable, and user-friendly syntax.  
+​Examples: Java, .NET, Python, PHP.  
+​Mid-Level Programming: Combines features of both low-level and high-level programming.  
+​4. Language Translators (Compiler vs. Interpreter)
+​Translators convert high-level programming code into low-level machine code:  
+​Compiler:
+​Described as strict.  
+​Translates the entire code at once and checks for errors across the whole block simultaneously.  
+​Interpreter:
+​Described as friendly.  
+​Processes and executes code line by line.  
+​5. Software Engineering & Application Roles
+​Why Software is Booming: Driven by everyday applications fulfilling end-user needs (e.g., WhatsApp for communication, Instagram to connect with people, Swiggy to fulfill hunger, Telegram for sharing notes/movies).  
+​Software/Application Definition: A software program designed to execute specific tasks and provide functional value to end users.  
+​3 Key Application Stages & Specialist Roles:
+​Development: Building the application (handled by developers/software engineers).  
+​Maintenance: Keeping the application running smoothly (handled by DevOps Engineers, Quality Assurance (QA), and Database Administrators (DBA)).  
+​Security: Protecting applications from hackers and fraudulent activity (handled by Cybersecurity Specialists, Application Security Engineers, and Ethical Hackers).  
+​6. Types of Applications
+​Mobile Applications: Installed on mobile platforms (Android / iOS) like WhatsApp and Instagram.  
+​Desktop Applications: Standalone software like MS Word, Excel, and Paint.  
+​Embedded Applications: Built into hardware devices like washing machines, ACs, and smartwatches.  
+​Web Applications: Accessed inside a web browser using the internet (e.g., Amazon, Flipkart).  
+​7. Full-Stack Development Architecture & Technologies
+​A Full-Stack Developer builds web applications end-to-end.  
+​The 3 Layers of Full-Stack Architecture:
+• Front-End (Client-Side)
+	• Purpose: The user interface (UI) and everything the user directly sees and interacts with in their browser (buttons, forms, layout).
+	• Restaurant Analogy: The Hotel/Dining Area (where customers sit, view the menu, and place orders).
+	• Common Technologies: HTML, CSS, JavaScript, React, Vue, or Tailwind.
+• Back-End (Server-Side)
+	• Purpose: Business logic that processes data, handles authentication, and manages requests behind the scenes.
+	• Restaurant Analogy: The Kitchen (where chefs take orders, cook the food, and prepare the response).
+	• Common Technologies: Node.js, Express, Python (Django/Flask), or Java.
+• Database (Data Layer)
+	• Purpose: Stores, organizes, and retrieves all application data (such as user accounts, product catalogs, and saved records).
+	• Restaurant Analogy: The Storehouse / Pantry (where ingredients and supplies are stocked and kept safe).
+	• Common Technologies: MySQL, PostgreSQL, MongoDB, or SQLite.
+8.Client-Server Architecture & MVC Pattern
+​Client-Server Architecture: Illustrates the lifecycle of a request (e.g., Instagram Registration)—where the user fills a form on the Front-End UI \rightarrow sends data to the Back-End application layer for validation/processing \rightarrow interacts with the Database storage layer \rightarrow and returns a success response.  
+​MVC Pattern (Model-View-Controller): A software architectural pattern used to separate application concerns into Model (data/logic), View (UI/presentation), and Controller (handles user input/requests).  
+​9. Upcoming Training Plan
+​Day-2: Java required for the project.
+​Day-3: Spring Boot & CRUD operations with arrays, ArrayLists, and SQL.
+​Day-4: Spring Boot CRUD operations with SQL integrated with HTML.
+​Day-5: Building a complete application using HTML, Thymeleaf, and Bootstrap.
