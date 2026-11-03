@@ -1,0 +1,48 @@
+​🚀Java Full-Stack Development — Practicing Variables, Data Types & Output Statements
+​INTRODUCTION
+​Excited to share my latest hands-on coding practice from my Full-Stack Developer training journey with FullStack Experts Academy! Today, I applied variable declarations, primitive and non-primitive data types, and console printing techniques in Java.
+​WHAT I WORKED ON
+​Wrote and tested a complete Java program (UserDetails.java) to manage user profile information.
+​Implemented various data types (String, int, boolean, char, double, and long) to store real-world data points.
+​Utilized string concatenation (+) inside System.out.println() to display formatted output to the console.
+​KEY LEARNINGS & TECHNOLOGIES
+​Variable Declaration & Initialization: Storing temporary data in named memory containers using the syntax DataType VariableName = value;.
+​Data Types in Action:
+​String for text data (wrapped in double quotes).
+​int and long for numeric data (using the L suffix for large long literals).
+​boolean for true/false states.
+​char for single characters (wrapped in single quotes).
+​double for decimal values.
+​Java Code Implementation:
+public class UserDetails {
+    public static void main(String[] args) {
+        // Variable declarations
+        String name = "Hero";
+        int age = 21;
+        boolean isEmployed = true;
+        char gender = 'M';
+        double salary = 120000.00;
+        long mobileNo = 9876543210L; // 'L' suffix required for long literals
+
+        // Printing variables to verify values
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Is Employed: " + isEmployed);
+        System.out.println("Gender: " + gender);
+        System.out.println("Salary: " + salary);
+        System.out.println("Mobile No: " + mobileNo);
+    }
+}
+KEY TAKEAWAYS
+​Gained strong familiarity with mapping real-world variables to precise Java data types.
+​Practiced clean syntax habits, such as avoiding double quotes around variable names during output operations.
+​Maintained consistent daily habits through hands-on IDE execution.
+​GITHUB REPOSITORY
+​https://github.com/Udipthishankar/Java-fsd-workshop-learning
+​ACKNOWLEDGEMENTS & TAGGING
+Special thanks to our department head, professors, and trainers for coordinating and facilitating this learning experience!
+​​@FullStack Experts Academy  
+​@Vineeth Godishela (Trainer)  
+​@Dr. Krishna Kumar P R (HOD, Dept. of CSE)  
+​@[Other Faculty Coordinators / Professors]
+​#FullStackExperts #LearningJourney #PortfolioBuilding #FullStackDevelopment #WebDevelopment #JavaSpringBoot
