@@ -1,0 +1,17 @@
+​Day-3 : Mastering Java Method Types, Return Values & Project Architecture
+​💡 INTRODUCTION
+​A short introduction explaining what I am sharing and its context as part of my continuous learning journey at FullStack Experts Academy. Today, I deepened my Java expertise by exploring different method signature combinations—covering void and value-returning functions, input arguments, return statements, and organizing project source structures (src/main/java).  
+​🛠️ WHAT I WORKED ON
+​Method Variations & Signatures: Explored the four core method types based on input and return behavior:
+​Without Input and Without Return (e.g., displayName())  
+​With Input and Without Return (e.g., passing String insName)  
+​Without Input and With Return (e.g., returning data using return "Welcome to Java";)  
+​With Input and With Return (processing parameters and returning results)  
+​Understanding Return Types: Learned how the void keyword indicates that a method does not return anything, whereas specific data types (like String) require a corresponding return statement.  
+​Project Directory Structure: Practiced setting up standard Java project architecture under src/main/java with organized packages like com.portfolio and com.portfolio.controller.
+​⚙️ KEY LEARNINGS & TECHNOLOGIES
+​[Learning / Concept 1] Method Signatures, Parameters, and Return Values (void vs. Data Types)
+​[Learning / Concept 2] Project Source Directory Organization (src/main/java)
+​[Tools / Technologies Used] Java, Eclipse IDE, FullStack Experts Academy Workshop Platform
+​🎯 KEY TAKEAWAYS
+​Mastering how to pass inputs and handle return types allows for building modular, flexible functions that can communicate data cleanly across different classes and packages. Proper directory structuring also ensures enterprise-grade code maintainability.
